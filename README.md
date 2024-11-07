@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @SnaetWarre
+- currently learning, idek what i'm learning tbf
