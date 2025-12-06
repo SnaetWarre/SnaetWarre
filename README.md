@@ -8,9 +8,9 @@
 
 ## About
 
-Currently in my final year studying AI Engineering at Howest University of Applied Sciences in Belgium. Focused on artificial intelligence, machine learning, and full-stack development with expertise in C#, Python, and modern web technologies.
+Currently in my final year studying AI Engineering at Howest University of Applied Sciences in Belgium. Focused on artificial intelligence and going on an internship to IPCA Portugal!
 
-**Specializations**: Artificial Intelligence • Machine Learning • Cloud Computing • Full-Stack Development
+**Specializations**: Everything to do with AI • DevOps 
 
 ---
 
@@ -51,22 +51,13 @@ High-performance client-server application for real-time dataset analysis and qu
 ## Technical Skills
 
 **AI & Machine Learning**  
-Python • NumPy • Pandas • scikit-learn • SciPy • Matplotlib
+Python • NumPy • Tensorflow • Pytorch • Keras
 
 **Programming Languages**  
-C# • Python • JavaScript • TypeScript
-
-**Web Development**  
-.NET • Node.js • SvelteKit • Next.js • Flask • TailwindCSS
-
-**Databases**  
-MySQL • PostgreSQL • Prisma ORM • Azure CosmosDB
+C# • Python • Rust
 
 **Cloud & DevOps**  
 Microsoft Azure • Docker • Kubernetes
-
-**Tools & Other**  
-Git • Figma • Arduino • REST APIs
 
 ---
 
@@ -82,4 +73,4 @@ Building a custom neural network implementation in Rust optimized for edge devic
 - **LinkedIn**: [linkedin.com/in/warre-snaet-272354370](https://www.linkedin.com/in/warre-snaet-272354370/)
 - **Email**: [warresnaet@student.howest.be](mailto:warresnaet@student.howest.be)
 
-**Open to internships and collaboration opportunities in AI/ML and Cloud Development**
+**Open collaboration opportunities in AI/ML and Cloud Development**
