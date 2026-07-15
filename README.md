@@ -1,15 +1,15 @@
-<h1 align="">Warre Snaet</h1>
-<h3 align="">AI Engineering Student</h3>
-<p align="">
-  I build software with a focus on Machine Learning and Edge Computing.<br>
-  Currently transitioning from standard Python stacks to high-performance Rust pipelines.
-</p>
-<p align=" ">
-  For detailed case studies and project breakdowns, visit my portfolio -> <a href="https://snaetwarre.github.io/My-Portofolio/">here</a>
-</p>
+# Warre Snaet
 
----
-<p align=" ">
-  <a href="https://www.linkedin.com/in/warre-snaet-272354370/">LinkedIn</a> • 
-  <a href="mailto:warresnaet@student.howest.be">Email</a>
-</p>
+Backend and applied AI engineer based in Vilvoorde, Belgium. I graduated with distinction in AI Engineering at Howest and build dependable Python services, data pipelines, agent infrastructure, and edge-AI applications.
+
+My recent work includes:
+
+- a medical-imaging pipeline for clinical research data during an international internship at 2Ai IPCA;
+- a six-service financial AI agent using FastAPI, MCP, RAG, PostgreSQL, React, Ollama, and Docker;
+- semi-supervised plant-disease classification in Rust, packaged as an offline edge application;
+- an Azure ML lifecycle with cloud training, model registration, containerized inference, Kubernetes manifests, and GitHub Actions;
+- maintained contributions to the open-source [Athas code editor](https://github.com/athasdev/athas).
+
+I am interested in junior backend, applied AI, agent infrastructure, and MLOps roles.
+
+[Portfolio](https://snaetwarre.github.io/My-Portofolio/) · [LinkedIn](https://www.linkedin.com/in/warre-snaet-272354370/) · [Email](mailto:warresnaet@icloud.com)
