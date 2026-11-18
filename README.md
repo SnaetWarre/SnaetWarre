@@ -2,4 +2,4 @@ Physical AI engineer at [Captic](https://captic.com). We build AI vision kits fo
 
 I graduated in AI Engineering at Howest
 
-[Portfolio](https://snaetwarre.github.io/My-Portofolio/) · [LinkedIn](https://www.linkedin.com/in/warre-snaet-272354370/) · [Email](mailto:warresnaet@icloud.com)
+[Portfolio](https://snaetwarre.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/warre-snaet-272354370/) · [Email](mailto:warresnaet@icloud.com)
