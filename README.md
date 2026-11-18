@@ -1,5 +1,3 @@
-# Warre Snaet
-
 Physical AI engineer at [Captic](https://captic.com). We build AI vision kits for factory robots, running on the machine instead of in the cloud. 
 
 I graduated in AI Engineering at Howest
